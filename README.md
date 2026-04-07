@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corey</h1>
-<h3 align="center">A full-stack web developer in the Saint Louis, MO area.</h3>
+<h3 align="center">web applications developer</h3>
 
-- 🌱 I’m currently learning **React Native, Astro, and Svelte**
+- 🌱 I’m currently learning **React Native, Astro, Svelte, and C#/.NET**
 
 - 👨‍💻 All of my projects are available at [https://corscheid.dev](https://corscheid.dev)
 
